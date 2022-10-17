@@ -1,12 +1,11 @@
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=koulen&duration=9000&color=82C39E&width=450&height=80&lines=hey+you!%2C+Can+you+fail+better+?+%F0%9F%96%A4)](https://git.io/typing-svg)
 <h1 ><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height= "20px "width="20px"> I'm Firas - aka Daiki  
 <a  href = "https://www.linkedin.com/in/firas-abidli-422148226/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30" height="30"/></a>
-<a  href = "https://www.instagram.com/firas_abl/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="30" height="30"/></a>
 <a  href = "https://discord.com/users/858015948941164554"><img src="https://img.icons8.com/fluent/48/000000/discord.png" width="30" height="30"/></a>
 </h1>
 
 ### 🙋‍♂️ About Me
-- 👩🏼‍💻 Software engineer student at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a>, part of the <a target="_blank" href="https://42.fr/en/network-42/">world wide network</a>
+- 👩🏼‍💻 Software engineering student at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a>, part of the <a target="_blank" href="https://42.fr/en/network-42/">world wide network</a>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
