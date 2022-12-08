@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- ⚡ Fun fact **I love 80's/90's music, Im obsessed with technology, Stickers and Podcasts**
-
-- 🤓 Passed the **42Heilbronn** feb piscine 2022
+- 🤓 Passed the **42Heilbronn** Feb piscine 2022
     
 - 📫 How to reach me **firasabidli.dev@gmail.com**
 
