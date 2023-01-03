@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 🤓 Passed the **42Heilbronn** Feb piscine 2022
+- 🤓 Passed the <a target="_blank" href="https://www.42heilbronn.de/en/">**42Heilbronn**</a> Feb piscine 2022
     
 - 📫 How to reach me **firasabidli.dev@gmail.com**
 
