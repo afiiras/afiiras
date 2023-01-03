@@ -5,7 +5,7 @@
 </h1>
 
 ### 🙋‍♂️ About Me
-- 👩🏼‍💻 Software engineering student at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a>, part of the <a target="_blank" href="https://42.fr/en/network-42/">world wide network</a>
+- 👩🏼‍💻 Software engineering student at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a>, part of the <a target="_blank" href="https://www.42network.org/">world wide network</a>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
