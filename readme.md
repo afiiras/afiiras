@@ -1,6 +1,5 @@
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=koulen&duration=9000&color=82C39E&width=450&height=80&lines=hey+you!%2C+Can+you+fail+better+?)](https://git.io/typing-svg)
-<h1 ><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height= "20px "width="20px"> I'm Firas  
-<a  href = "https://www.linkedin.com/in/firas-abidli-422148226/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30" height="30"/></a>
+<h1 ><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height= "20px "width="20px"> "I'm Firas" <a  href = "https://www.linkedin.com/in/firas-abidli-422148226/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30" height="30"/></a>
 <a  href = "https://discord.com/users/858015948941164554"><img src="https://img.icons8.com/fluent/48/000000/discord.png" width="30" height="30"/></a>
 </h1>
 
